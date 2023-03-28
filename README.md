@@ -1,6 +1,15 @@
 # API4UI
-no-ui-code app builder for building business applicitions fast and easily.
-# Azure pipeline test results
+API4UI is a lightweight cross platform UI render engine for building business applications.<br/>
+It gives developers, analist and others the freedom to use a no-code frontend.<br/>
+And the flexibility too keep the existing backend.
+## Documentation
+https://api4ui.github.io/api4ui-doc/
+## Demos
+https://www.api4ui.io/demo
+## Github issues
+Github issues are used to track the public issues of API4UI.
+All questions around community related projects are als welcome here.
+## Azure pipeline test results
 [![Build Status](https://dev.azure.com/kh-it/api4ui_designer/_apis/build/status/api4ui_designer?branchName=master)][def]
 
 [def]: https://dev.azure.com/kh-it/api4ui_designer/_build/latest?definitionId=4&branchName=master
