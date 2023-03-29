@@ -7,8 +7,9 @@ https://api4ui.github.io/api4ui-doc/
 ## Demos
 https://www.api4ui.io/demo
 ## Github issues
-Github issues are used to track the public issues of API4UI.
-All questions around community related projects are als welcome here.
+Github issues are used to track the public issues of API4UI. <br/>
+Also the questions around community related projects are welcome. <br/>
+https://github.com/api4ui/api4ui/issues
 ## Azure pipeline test results
 [![Build Status](https://dev.azure.com/kh-it/api4ui_designer/_apis/build/status/api4ui_designer?branchName=master)][def]
 
